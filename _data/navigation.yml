@@ -1,9 +1,9 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Microsoft Azure"
+    url: /microsoft_azure/
+  - title: "Microsoft 365"
+    url: /microsoft_365/
   - title: "About"
     url: /about/
