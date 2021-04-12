@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Azure related posts"
 layout: categories
-permalink: /Microsoft Azure/
+permalink: /Microsoft_365/
 author_profile: true
 ---
