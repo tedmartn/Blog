@@ -14,3 +14,4 @@ This is my personal blog where I cover Hybrid & Cloud-Only Technologies, focusin
 
 The primary goal for this blog is to educate the individuals and organizations on secure cloud based solutions or a hybrid approach when necessary. 
 
+---
