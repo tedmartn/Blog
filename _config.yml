@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   particularly Cloud Based. Microsoft Azure is my go to Public Cloud provider, and I plan on covering Microsoft Azure heavily.
 github_username: tedmartn
 linkedin_username: ted-martin-bb61418b
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: air
 search: true
 
 
