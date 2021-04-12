@@ -6,6 +6,9 @@ categories:
 tags:
   - Jekyll
   - update
+  - security
+  - cloud
+  - microsoft
 ---
 
 Hello everyone, and welcome to my first ever blog post! 
