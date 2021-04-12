@@ -13,9 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: "en-US"
 title: Ted's Cloud Infrastructure Blog
-title_seperator: "-"
 email: theodorejmartin@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, my name is Ted Martin. I have decided to create this blog in order to educate other likeminded individuals that use technology,
@@ -65,20 +63,20 @@ author:
   location: "Davenport, IA"
   email: theodorejmartin@outlook.com
   links:
-      label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ted-martin-bb61418b/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tedmartn"
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin-in"
+        url: "https://www.linkedin.com/in/ted-martin-bb61418b/"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/tedmartn"
 footer:
   links:
-      label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ted-martin-bb61418b/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tedmartn"
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin-in"
+        url: "https://www.linkedin.com/in/ted-martin-bb61418b/"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/tedmartn"
 defaults:
   # _posts
   - scope:
