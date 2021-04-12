@@ -62,7 +62,7 @@ author:
   name   : "Ted Martin"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cloud Focused Infrastructure Consultant, blogging all things Microsoft Azure & Microsoft 365"
-  localtion: "Davenport, IA"
+  location: "Davenport, IA"
   email: theodorejmartin@outlook.com
   links:
       label: "LinkedIn"
@@ -73,7 +73,12 @@ author:
       url: "https://github.com/tedmartn"
 footer:
   links:
-
+      label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ted-martin-bb61418b/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tedmartn"
 defaults:
   # _posts
   - scope:
