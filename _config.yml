@@ -71,10 +71,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tedmartn"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://instagram.com/"
-
 footer:
   links:
 
