@@ -59,6 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
+  name: "Ted Martin"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cloud Focused Infrastructure Consultant, blogging all things Microsoft Azure & Microsoft 365"
   location: "Davenport, IA"
