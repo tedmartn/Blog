@@ -49,7 +49,7 @@ plugins:
 author:
   name: "Ted Martin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Cloud Focused Infrastructure Consultant, blogging all things Microsoft Azure & Microsoft 365."
+  bio    : "Cloud Architect, Microsoft Azure & Microsoft 365."
   location: "Davenport, IA"
   email: theodorejmartin@outlook.com
   links:
